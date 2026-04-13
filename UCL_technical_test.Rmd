@@ -7,6 +7,7 @@ output:
     theme: Cayman
     highlight: github
     toc: true
+    self_contained: true
 ---
 
 # Load libraries
